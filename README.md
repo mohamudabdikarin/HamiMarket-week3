@@ -6,9 +6,7 @@ This project is a fully functional e-commerce shopping cart system for Hami Mini
 This project was completed as part of the HamiSkills Web Development Internship (Week 3 Task).
 
 ## Live Demo
-[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)]()
-
-(Link to your deployed Vercel, Netlify, or GitHub Pages site)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)](https://hami-market-week3.vercel.app/)
 
 ## Features Implemented
 
